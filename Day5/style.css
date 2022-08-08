@@ -1,0 +1,51 @@
+#Timer{
+    border: 2px solid bisque;
+    display: flex;
+    width: 450px;
+    height: 100px;
+    justify-content: center;
+    background-color: darksalmon;
+    font-family: 'poppins',sans-serif;
+}
+
+#hour{
+    font-size: 40px;
+    position: absolute;
+    left:7vw;
+    margin-top:1.5vw;
+}
+
+#min{
+    font-size: 40px;
+    position: absolute;
+    left:13vw;
+    margin-top:1.5vw;
+}
+
+#sec{
+    font-size: 40px;
+    position: absolute;
+    left:18vw;
+    margin-top:1.5vw;
+}
+
+#col1{
+    font-size: 45px;
+    position: absolute;
+    left:10.5vw;
+    margin-top:1vw;
+}
+
+#col2{
+    font-size: 45px;
+    position: absolute;
+    left:16vw;
+    margin-top:1vw;
+}
+
+#ampm{
+    font-size: 40px;
+    position: absolute;
+    left:22vw;
+    margin-top:1.5vw;
+}
